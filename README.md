@@ -40,7 +40,7 @@ O agente criado é capaz de:
 
 ## 📁 Arquivos
 - ├── Huggingface 8.ipynb   # Notebook com o código
-- └── apresentacao_llm_agents.pdf    # Slides de apresentação
+- └── atividade 8.pdf    # Slides de apresentação
 
 ---
 
