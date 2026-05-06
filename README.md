@@ -31,7 +31,7 @@ O agente criado é capaz de:
 
 ## 🚀 Como Executar
 
-1. Abra o arquivo `llm_agents_huggingface.ipynb` no [Google Colab](https://colab.research.google.com)
+1. Abra o arquivo `Huggingface 8.ipynb` no [Google Colab](https://colab.research.google.com)
 2. Crie seu token gratuito em [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
 3. Substitua `hf_SEU_TOKEN_AQUI` pelo seu token na célula indicada
 4. Execute todas as células (**Runtime → Run all**)
